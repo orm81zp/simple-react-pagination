@@ -2,7 +2,7 @@
   "name": "simple-react-pagination",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://orm81zp.github.io/simple-react-pagination",
+  "homepage": "https://github.com/orm81zp/simple-react-pagination#readme",
   "author": "Roman Onishchenko <orm81zp@rgmail.com> (https://github.com/orm81zp)",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
